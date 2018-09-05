@@ -175,15 +175,18 @@ Jeu permettant de réaliser le travail dans une ferme et la gestion des différe
 * git : https://git-iut.univ-lille1.fr/hansona/Farmiut.git
 
 
-# Équipe 13 : Nom du projet
-Description du projet 
-
+# Équipe 13 : Medieval Builder
+Notre jeu est un mélange de city-Builder et de jeux de gestion en 2D, il faut gerer sa population a travers des fermes, mine pour les nourrir et s'enrichir. Mais il faut aussi gerer leur bonheurs, pour que notre peuple se reproduise et ne  se rebellerons pas en cas de malheurs complet. 
 ## Équipe
-* Prénom Nom
+* Alexandre Duhamel
+* Alexis Poteau
+* Jimmy Letoret
+* Rapheal Bauvin
+* Geldhof Sully
 
 ## Resources
 
-* git :
+* git : https://git-iut.univ-lille1.fr/letoretj/Equipe13-Agile.git
 
 
 # Équipe 14 : Nom du projet
